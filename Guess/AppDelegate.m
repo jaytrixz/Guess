@@ -13,6 +13,14 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    NSString *_backgroundMusic = [[NSBundle mainBundle] pathForResource:@"beat"
+                                                                 ofType:@"mp3"];
+    backgroundMusic = [[AVAudioPlayer alloc] initWithContentsOfURL:[NSURL fileURLWithPath:_backgroundMusic] error:nil];
+    backgroundMusic.delegate = self;
+    backgroundMusic.numberOfLoops = -1;
+    [backgroundMusic play];
+    
     return YES;
 }
 							

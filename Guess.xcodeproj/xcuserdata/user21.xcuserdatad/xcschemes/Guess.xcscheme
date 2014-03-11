@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "391A050D18580FC200BFF527"
-               BuildableName = "Guess.app"
+               BuildableName = "Guess Who?.app"
                BlueprintName = "Guess"
                ReferencedContainer = "container:Guess.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "391A050D18580FC200BFF527"
-            BuildableName = "Guess.app"
+            BuildableName = "Guess Who?.app"
             BlueprintName = "Guess"
             ReferencedContainer = "container:Guess.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "391A050D18580FC200BFF527"
-            BuildableName = "Guess.app"
+            BuildableName = "Guess Who?.app"
             BlueprintName = "Guess"
             ReferencedContainer = "container:Guess.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "391A050D18580FC200BFF527"
-            BuildableName = "Guess.app"
+            BuildableName = "Guess Who?.app"
             BlueprintName = "Guess"
             ReferencedContainer = "container:Guess.xcodeproj">
          </BuildableReference>

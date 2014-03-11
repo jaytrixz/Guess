@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CongratsViewController.h
 //  Guess
 //
 //  Created by Jay Santos on 12/11/13.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface CongratsViewController : UIViewController
+
+- (IBAction)restartButtonTapped:(id)sender;
 
 @end
